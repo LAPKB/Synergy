@@ -1,0 +1,10 @@
+name: synergy
+title:
+username: mnneely
+account: mnneely
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10336718
+bundleId: 7862063
+url: https://mnneely.shinyapps.io/synergy/
+version: 1
